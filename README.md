@@ -1,4 +1,4 @@
-# Naive Bayes classifier IMDB
+# Naive Bayes classifier Flight Review
  
 
 
