@@ -126,13 +126,11 @@ print("acuracy is", acuracy)
 
 
 # user input
-
-print("try your input:")
 try_custom = 1
 
 if try_custom:
-    # review = input()
-    text = "the flying assistent was very cold, i was very frightened and she just told me to calm down. That didn't help, 1/5 starts"      # add input here
+    text = input("Try your review: ")
+    # text = "the flying assistent was very cold, i was very frightened and she just told me to calm down. That didn't help, 1/5 starts"      # add input here
 
     text = text.lower()
     for ch in chars_to_remove:
